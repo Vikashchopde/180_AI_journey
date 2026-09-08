@@ -1,0 +1,6 @@
+python
+OPPs
+JavaScript
+Java
+GenAI
+System Design
